@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MyLibrary'
+  s.name             = 'MyLibraryDemoABCUOHOUHOUH'
   s.version          = '0.0.1'
   s.summary          = 'A short description of MyLibrary.'
 
