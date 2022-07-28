@@ -1,0 +1,22 @@
+{
+  "name": "MyLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khoa.hoang/MyLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khoa.hoang": "khoahoanggia94@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/khoa.hoang/MyLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyLibrary/Classes/**/*"
+}
